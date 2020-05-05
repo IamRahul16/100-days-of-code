@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: May 5, 2020
+### Day 1: , 2020
 
 **Today's Progress**: 
 
