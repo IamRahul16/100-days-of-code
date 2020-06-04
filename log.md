@@ -17,3 +17,17 @@ I will try to improve my coding skills more as there is a lot more to learn.
 
 **Link to work**: [Quick sort](https://github.com/IamRahul16/Somecodes/blob/master/quick.cpp)
 
+### Day 3: June 2 , 2020
+
+**Today's Progress**: Implemented selection sort in C++.
+
+**Thoughts**: Need to improve more on understanding. I am also thinking to code on some other languages so lets see how far it goes.
+
+**Link to work**: [Selection sort](https://github.com/IamRahul16/Somecodes/blob/master/selection_sort.cpp)
+
+
+
+
+
+
+
