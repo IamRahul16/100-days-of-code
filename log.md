@@ -25,6 +25,13 @@ I will try to improve my coding skills more as there is a lot more to learn.
 
 **Link to work**: [Selection sort](https://github.com/IamRahul16/Somecodes/blob/master/selection_sort.cpp)
 
+### Day 4: June 3 , 2020
+
+**Today's Progress**: Implemented selection sort in C++.
+
+**Thoughts**: Had to study some other topics so i ended up doing just one algorithm. Just merge sort left now.
+
+**Link to work**: [Insertion sort](https://github.com/IamRahul16/Somecodes/blob/master/insertion_sort.cpp)
 
 
 
