@@ -17,21 +17,29 @@ I will try to improve my coding skills more as there is a lot more to learn.
 
 **Link to work**: [Quick sort](https://github.com/IamRahul16/Somecodes/blob/master/quick.cpp)
 
-### Day 3: June 2 , 2020
+### Day 3: June 3 , 2020
 
-**Today's Progress**: Implemented selection sort in C++.
+**Today's Progress**: Implemented Selection sort in C++.
 
 **Thoughts**: Need to improve more on understanding. I am also thinking to code on some other languages so lets see how far it goes.
 
 **Link to work**: [Selection sort](https://github.com/IamRahul16/Somecodes/blob/master/selection_sort.cpp)
 
-### Day 4: June 3 , 2020
+### Day 4: June 4 , 2020
 
-**Today's Progress**: Implemented selection sort in C++.
+**Today's Progress**: Implemented Insertion sort in C++.
 
 **Thoughts**: Had to study some other topics so i ended up doing just one algorithm. Just merge sort left now.
 
 **Link to work**: [Insertion sort](https://github.com/IamRahul16/Somecodes/blob/master/insertion_sort.cpp)
+
+### Day 5: June 5 , 2020
+
+**Today's Progress**: Implemented Iterative and Recursive Binary Search in C++.
+
+**Thoughts**: Today seems to be a bit lazy day but i have tried to code these two.
+
+**Link to work**: [Iterative binary](https://github.com/IamRahul16/Somecodes/blob/master/iterative_binary.cpp) [Recursive binary](https://github.com/IamRahul16/Somecodes/blob/master/recursive_binary.cpp)
 
 
 
