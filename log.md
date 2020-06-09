@@ -41,6 +41,14 @@ I will try to improve my coding skills more as there is a lot more to learn.
 
 **Link to work**: [Iterative binary](https://github.com/IamRahul16/Somecodes/blob/master/iterative_binary.cpp) [Recursive binary](https://github.com/IamRahul16/Somecodes/blob/master/recursive_binary.cpp)
 
+### Day 6: June 7 , 2020
+
+**Today's Progress**: Implemented Merge sort in C++.
+
+**Thoughts**: Some repetitive mistakes were there but i have tried to solve it. Took more than a day :/
+
+**Link to work**: [merge sort](https://github.com/IamRahul16/Somecodes/blob/master/merge.cpp)
+
 
 
 
