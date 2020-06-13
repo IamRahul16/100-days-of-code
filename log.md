@@ -49,6 +49,14 @@ I will try to improve my coding skills more as there is a lot more to learn.
 
 **Link to work**: [merge sort](https://github.com/IamRahul16/Somecodes/blob/master/merge.cpp)
 
+### Day 7: June 10 , 2020
+
+**Today's Progress**: Implemented Linked List in C.
+
+**Thoughts**: Was not able to find time to code but finally implemented this one. Its a tough one for me coz i dont know much about pointers and all. Hope to keep a regular schedule for this.
+
+**Link to work**: [Linked List](https://github.com/IamRahul16/Somecodes/blob/master/linklist_display.c)
+
 
 
 
