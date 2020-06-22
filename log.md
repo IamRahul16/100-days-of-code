@@ -57,8 +57,10 @@ I will try to improve my coding skills more as there is a lot more to learn.
 
 **Link to work**: [Linked List](https://github.com/IamRahul16/Somecodes/blob/master/linklist_display.c)
 
+### Day 8: June 15 , 2020
 
+**Today's Progress**: Inserting node at beginning of linked list.
 
+**Thoughts**: I was busy with some other stuff, so couldn't find time to code. I have to prepare a schedule and work more over programming.
 
-
-
+**Link to work**: [Linked List(1.1)](https://github.com/IamRahul16/Somecodes/blob/master/linklist_beginn.c)
