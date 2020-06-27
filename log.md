@@ -64,3 +64,11 @@ I will try to improve my coding skills more as there is a lot more to learn.
 **Thoughts**: I was busy with some other stuff, so couldn't find time to code. I have to prepare a schedule and work more over programming.
 
 **Link to work**: [Linked List(1.1)](https://github.com/IamRahul16/Somecodes/blob/master/linklist_beginn.c)
+
+### Day 9: June 20 , 2020
+
+**Today's Progress**: Inserting node at nth position of linked list.
+
+**Thoughts**: Not getting time to code but finally i have made this one. Quite tricky for the nth one but its nice. 
+
+**Link to work**: [Linked List(1.2)](https://github.com/IamRahul16/Somecodes/blob/master/linklist_nthpos.cpp)
