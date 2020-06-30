@@ -72,3 +72,12 @@ I will try to improve my coding skills more as there is a lot more to learn.
 **Thoughts**: Not getting time to code but finally i have made this one. Quite tricky for the nth one but its nice. 
 
 **Link to work**: [Linked List(1.2)](https://github.com/IamRahul16/Somecodes/blob/master/linklist_nthpos.cpp)
+
+### Day 10: June 25 , 2020
+
+**Today's Progress**: Deleting a node at nth position of linked list.
+
+**Thoughts**: Took some time to code and was a bit lazy too. But yes, now i am understanding link list. 
+
+**Link to work**: [Linked List(1.3)](https://github.com/IamRahul16/Somecodes/blob/master/linklist_del.cpp)
+
