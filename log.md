@@ -79,5 +79,5 @@ I will try to improve my coding skills more as there is a lot more to learn.
 
 **Thoughts**: Took some time to code and was a bit lazy too. But yes, now i am understanding link list. 
 
-**Link to work**: [Linked List(1.3)](https://github.com/IamRahul16/Somecodes/blob/master/linklist_del.cpp)
+**Link to work**: [Linked List(1.3)](https://github.com/IamRahul16/Somecodes/blob/master/linklist_del.c)
 
