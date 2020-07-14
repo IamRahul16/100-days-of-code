@@ -81,3 +81,10 @@ I will try to improve my coding skills more as there is a lot more to learn.
 
 **Link to work**: [Linked List(1.3)](https://github.com/IamRahul16/Somecodes/blob/master/linklist_del.c)
 
+### Day 11: July 1  , 2020
+
+**Today's Progress**: Implemetation of stack using arrays in c and c++.
+
+**Thoughts**: Busy with the exams. I will continue with Linked list after some days. 
+
+**Link to work**: [Stack)](https://github.com/IamRahul16/Somecodes/tree/master/stack%20using%20arr)
