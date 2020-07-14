@@ -87,4 +87,4 @@ I will try to improve my coding skills more as there is a lot more to learn.
 
 **Thoughts**: Busy with the exams. I will continue with Linked list after some days. 
 
-**Link to work**: [Stack)](https://github.com/IamRahul16/Somecodes/tree/master/stack%20using%20arr)
+**Link to work**: [Stack](https://github.com/IamRahul16/Somecodes/tree/master/stack%20using%20arr)
