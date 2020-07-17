@@ -88,3 +88,11 @@ I will try to improve my coding skills more as there is a lot more to learn.
 **Thoughts**: Busy with the exams. I will continue with Linked list after some days. 
 
 **Link to work**: [Stack](https://github.com/IamRahul16/Somecodes/tree/master/stack%20using%20arr)
+
+### Day 12: July 5  , 2020
+
+**Today's Progress**: Implemetation of stack using linked list in c.
+
+**Thoughts**: Need to have that regularity. 
+
+**Link to work**: [Stack_list](https://github.com/IamRahul16/Somecodes/blob/master/stack%20using%20linklist/stackllist.c)
